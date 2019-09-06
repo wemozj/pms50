@@ -1,4 +1,4 @@
-> > ++++## 关联 （Correlation）
+## 关联 （Correlation）
 
 关联图表用于可视化2个或更多变量之间的关系。 也就是说，一个变量如何相对于另一个变化。
 
@@ -8,7 +8,7 @@
 有时，您希望在边界内显示一组点以强调其重要性。 在这个例子中，你从数据框中获取记录，并用下面代码中描述的 encircle（） 来使边界显示出来。
 
 
-#### 导入所需要的库
+### 导入所需要的库
 
 
 ```
@@ -30,7 +30,7 @@ from matplotlib import patches
 from scipy.spatial import ConvexHull
 ```
 
-#### 设定图像各种属性
+### 设定图像各种属性
 
 
 ```
@@ -56,7 +56,7 @@ plt.style.use('seaborn-whitegrid')
 sns.set_style("white")  
 ```
 
-#### 测试版本
+### 测试版本
 
 ```
 print(mpl.__version__)
@@ -67,7 +67,7 @@ print(sns.__version__)
 0.9.0
 
 
-#### 程序代码
+### 程序代码
 
 
 ```
@@ -152,7 +152,7 @@ plt.title("Bubble Plot with Encircling", fontsize=22)
 plt.legend(fontsize = 12)
 plt.show()
 ```
-### 带边界的气泡图
+### 气泡图
 ![chapter1-0.png](res/chapter2-1.png)
 
 
