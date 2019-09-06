@@ -1,14 +1,15 @@
-- 目录
+
+目录
  - [P1 散点图](chapter1/chapter1.md)
  - [P2 带边界的气泡图](chapter2/chapter2.md)
  - [P3 带线性回归最佳拟合线的散点图 ](chapter3/chapter3.md)
  - [P4 抖动图](chapter4/chapter4.md)
  - [P5 计数图](chapter5/chapter5.md)
- - [P6 边缘直方图](chapter1/chapter1.md)
- - [P7 边缘箱形图](chapter2/chapter2.md)
- - [P8 相关图](chapter3/chapter3.md)
- - [P9 矩阵图](chapter4/chapter4.md)
- - [P10 发散型条形图 ](chapter5/chapter5.md)
+ - [P6 边缘直方图](chapter6/chapter6.md)
+ - [P7 边缘箱形图](chapter7/chapter7.md)
+ - [P8 相关图](chapter8/chapter8.md)
+ - [P9 矩阵图](chapter9/chapter9.md)
+ - [P10 发散型条形图 ](chapter10/chapter10.md)
  - [P11 发散型文本](chapter11/chapter11.md)
  - [P12 发散型包点图](chapter12/chapter12.md)
  - [P13 带标记的发散型棒棒糖图](chapter13/chapter13.md)
