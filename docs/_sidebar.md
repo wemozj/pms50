@@ -1,4 +1,3 @@
-
 目录
  - [P1 散点图](chapter1/chapter1.md)
  - [P2 带边界的气泡图](chapter2/chapter2.md)
