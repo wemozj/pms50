@@ -11,6 +11,12 @@ python可视化50图是由博主大佬Selva Prabhakaran于2018年12月在自己�
 
 ## 使用说明
 此系列笔记解读涉及非常多的matplotlib、 seaborn等库的使用，没有太多涉及numpy、pandas库的使用。想要更多的学习数据分析内容，可以来参加Datawhale的数据分析组队学习。结合这些资料一起学习，相信你对数据分析有更加深刻的理解。
+若你觉得此学习项目的同时有余力时，也可以学习李宏毅的系列课程，以及机器学习实战，sklearn等领域知识内容
+李宏毅机器学习：https://github.com/datawhalechina/leeml-notes
+李宏毅线性代数：https://github.com/datawhalechina/leela-notes
+机器学习实战笔记(mlia-notes)+sklearn解读：https://github.com/datawhalechina/mlia-notes
+
+
 
 ## 笔记在线阅读
 
@@ -21,11 +27,6 @@ python可视化50图是由博主大佬Selva Prabhakaran于2018年12月在自己�
 
 
 # 目录
-
-
-- [P1 散点图](https://datawhalechina.github.io/pms50/#/chapter1/chapter1)
-
-- 目录
  - [P1 散点图](https://datawhalechina.github.io/pms50/#/chapter1/chapter1)
  - [P2 带边界的气泡图](https://datawhalechina.github.io/pms50/#/chapter2/chapter2)
  - [P3 带线性回归最佳拟合线的散点图 ](https://datawhalechina.github.io/pms50/#/chapter3/chapter3)
